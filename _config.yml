@@ -1,6 +1,15 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Vidushi Gangwar </p>
+logo: /assets/img/1608160154037.jpg
+
+description:
+  <p align="center">
+  <a href="https://github.com/vidushiga">GitHub</a>
+  
+  <br>   
+  I'm working as a Data Engineer and have 5.7 years of experience in IT industry.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
